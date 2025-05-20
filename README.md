@@ -12,7 +12,6 @@ In this project, I reanalyzed the chromatographic data from our previously publi
 
 - Raw data processing
 - Calibration curve generation
-- Method validation (accuracy, precision, linearity)
 - Data visualization and model evaluation
 
 The goals of this reanalysis are to:
